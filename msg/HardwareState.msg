@@ -1,2 +1,1 @@
-float32 ultrasonic_target_direction
-float32 ultrasonic_target_distance
+float32[] ch_ultrasonic_distances
