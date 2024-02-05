@@ -1,4 +1,11 @@
-float32[] ch_ultrasonic_distances
+float32 ch_ultrasonic_distance_1
+float32 ch_ultrasonic_distance_2
+float32 ch_ultrasonic_distance_3
+float32 ch_ultrasonic_distance_4
+float32 ch_ultrasonic_distance_5
+float32 ch_ultrasonic_distance_6
+float32 ch_ultrasonic_distance_7
+float32 ch_ultrasonic_distance_8
 int32 right_motor_pulse_delta
 int32 left_motor_pulse_delta
 float32 heading
