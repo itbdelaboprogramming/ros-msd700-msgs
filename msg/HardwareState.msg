@@ -1,3 +1,4 @@
 float32[] ch_ultrasonic_distances
 int32 right_motor_pulse_delta
 int32 left_motor_pulse_delta
+float32 heading
