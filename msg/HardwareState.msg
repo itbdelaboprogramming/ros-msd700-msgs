@@ -9,3 +9,11 @@ float32 ch_ultrasonic_distance_8
 int32 right_motor_pulse_delta
 int32 left_motor_pulse_delta
 float32 heading
+float32 pitch
+float32 roll
+float32 acc_x
+float32 acc_y
+float32 acc_z
+float32 gyr_x
+float32 gyr_y
+float32 gyr_z
