@@ -20,3 +20,7 @@ float32 gyr_z
 float32 mag_x
 float32 mag_y
 float32 mag_z
+float32 uwb_dist
+float32 uwb_deviation
+float32 uwb_rho
+float32 uwb_theta

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>ros_msd700_msgs</name>
+  <name>msd700_msgs</name>
   <version>0.0.0</version>
   <description>The ros_msd700_msgs package</description>
 
